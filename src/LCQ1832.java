@@ -1,11 +1,15 @@
-public class learning {
+public class LCQ1832 {
+
+
+
+
     public static void main(String[] args) {
 
 
         int count = 0;
 
-learning l = new learning();
-String s= "thequickbrownfxjum";
+        learning l = new learning();
+        String s= "thequickbrownfxjum";
 
         System.out.println(l.have(s));
 
@@ -36,6 +40,6 @@ String s= "thequickbrownfxjum";
             return true;
         }
 
-return false;
+        return false;
     }
 }
