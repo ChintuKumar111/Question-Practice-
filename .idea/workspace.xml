@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bf0dbb23-94c6-4a30-a9a5-dac164a95e78" name="Changes" comment="initail commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LCQ1832.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LCQ1832.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/learning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learning.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +38,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Application.LCQ1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LCQ1832.executor&quot;: &quot;Run&quot;,
     &quot;Application.LCQ2974.executor&quot;: &quot;Run&quot;,
     &quot;Application.LCQ387.executor&quot;: &quot;Run&quot;,
     &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
