@@ -45,6 +45,16 @@ public class learning {
         String str[] = {"This is the Levi Ackerman"};
 
 
+
+        // new method
+        for (String strr :str){
+
+
+        }
+
+
+
+
         int arr[] = new int[0];
 
 
