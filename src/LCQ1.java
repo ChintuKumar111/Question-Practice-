@@ -1,4 +1,4 @@
-class Solution {
+class LCQ1 {
     public int addDigits(int num) {
         int x=0;
         while(num>9){
@@ -22,7 +22,7 @@ class Solution {
 
     public static void main(String args[]){
 
-        Solution s1 = new Solution();
+        LCQ1 s1 = new LCQ1();
         System.out.println(s1.addDigits(38));
 
     }
