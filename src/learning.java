@@ -44,74 +44,84 @@ public class learning {
 
         String str[] = {"This is the Levi Ackerman"};
 
-
+int count=0;
+int value = 0;
 
         // new method
         for (String strr :str){
 
 
-        }
+            int x = 0;
 
+            String  [] s = strr.split(" ");
 
-
-
-        int arr[] = new int[0];
-
-
-        for(String d : str){
-
-            arr = new int[d.length()];
-        }
-
-        int x = 0;
-
-
-
-
-
-        for(String v : str){
-            System.out.println(v);
-            int count = 0 ;
-            int value = 0;
-            for(int i = 0; i< v.length(); i++) {
-
-
-            char c = v.charAt(i);
-
-            if (c != ' ') {
-                count++;
-                value= count;
-                arr[x++] = value;
-
-
-            }
-
-            if (c == ' ') {
-                count=0;
-
-            }
-
-
-
-            }
-
-            System.out.println("word length = " + count);
-            System.out.println("Final value = " + value);
+            count = s.length;
 
 
         }
-        int max = arr[0];
 
-        for(int i = 0;i< arr.length;i++){
-
-            if(max<arr[i]){
-                max = arr[i];
-            }
-        }
-        System.out.println("max value is "+max);
+        System.out.println(count);
 
 
 
+
+//        int arr[] = new int[0];
+//
+//
+//        for(String d : str){
+//
+//            arr = new int[d.length()];
+//        }
+//
+//        int x = 0;
+//
+//
+//
+//
+//
+//        for(String v : str){
+//            System.out.println(v);
+//            int count = 0 ;
+//            int value = 0;
+//            for(int i = 0; i< v.length(); i++) {
+//
+//
+//            char c = v.charAt(i);
+//
+//            if (c != ' ') {
+//                count++;
+//                value= count;
+//                arr[x++] = value;
+//
+//
+//            }
+//
+//            if (c == ' ') {
+//                count=0;
+//
+//            }
+//
+//
+//
+//            }
+//
+//            System.out.println("word length = " + count);
+//            System.out.println("Final value = " + value);
+//
+//
+//        }
+//        int max = arr[0];
+//
+//        for(int i = 0;i< arr.length;i++){
+//
+//            if(max<arr[i]){
+//                max = arr[i];
+//            }
+//        }
+//        System.out.println("max value is "+max);
+//
+//
+//
 
     }
 

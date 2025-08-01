@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf0dbb23-94c6-4a30-a9a5-dac164a95e78" name="Changes" comment="initail commit">
-      <change afterPath="$PROJECT_DIR$/src/ll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Experiment/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learning.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +40,11 @@
   "keyToString": {
     "Application.LCQ1.executor": "Run",
     "Application.LCQ1832.executor": "Run",
+    "Application.LCQ21.executor": "Run",
+    "Application.LCQ2114.executor": "Run",
     "Application.LCQ2974.executor": "Run",
     "Application.LCQ387.executor": "Run",
+    "Application.Question7.executor": "Run",
     "Application.Solution.executor": "Run",
     "Application.learning.executor": "Run",
     "Application.ll.executor": "Run",
@@ -48,6 +53,9 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/PC-ACER/IdeaProjects/Practice Question/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
