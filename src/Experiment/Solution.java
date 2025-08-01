@@ -1,36 +1,34 @@
 package Experiment;
 
- class Solution {
-  int nn(int number ){
-        int count = 0;
+import java.util.ArrayList;
+import java.util.Arrays;
 
-        int value = number;
-
-
-
-        while(number>0){
-
-            int newInput = number%10;
-
-            if(value%newInput==0){
-                count++;
-            }
-
-            number /=10;
-        }
-
-return  count;
-
-    }
-
+class Solution {
      public static void main(String[] args) {
 
-        Solution  s = new Solution();
+         String[] s = {"abc", "car", "ada", "racecar", "cool"};
 
 
-         int res = s.nn(1210);
-         System.out.println(res);
+
+
+         ArrayList<String> ar = new ArrayList<>();
+
+         for(String ec : s){
+             ar.add(ec);
+
+             String reverse = new StringBuilder(ec).reverse().toString();
+
+             if (reverse.equals(ec)) {
+                 System.out.println(ec);
+                return;
+             }
+             }
+         }
+
 
 
      }
-}
+
+
+
+
