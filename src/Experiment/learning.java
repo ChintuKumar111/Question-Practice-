@@ -1,3 +1,5 @@
+package Experiment;
+
 import java.io.RandomAccessFile;
 import java.sql.SQLOutput;
 
@@ -7,7 +9,7 @@ public class learning {
 //
 //        int count = 0;
 //
-//learning l = new learning();
+//Experiment.learning l = new Experiment.learning();
 //String s= "thequickbrownfxjum";
 //
 //        System.out.println(l.have(s));

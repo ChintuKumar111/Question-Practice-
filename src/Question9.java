@@ -1,5 +1,3 @@
-package Experiment;
-
 public class Question9 {
 
         public int numberOfEmployeesWhoMetTarget(int[] hours, int target) {

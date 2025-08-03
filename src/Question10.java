@@ -1,5 +1,3 @@
-package Experiment;
-
 public class Question10 {
 
         public int differenceOfSum(int[] nums) {
