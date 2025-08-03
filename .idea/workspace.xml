@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf0dbb23-94c6-4a30-a9a5-dac164a95e78" name="Changes" comment="initail commit">
-      <change beforePath="$PROJECT_DIR$/src/Question8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Question8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Experiment/Question10.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,9 @@
     "Application.LCQ2114.executor": "Run",
     "Application.LCQ2974.executor": "Run",
     "Application.LCQ387.executor": "Run",
+    "Application.Question10.executor": "Run",
     "Application.Question7.executor": "Run",
+    "Application.Question9.executor": "Run",
     "Application.Solution.executor": "Run",
     "Application.learning.executor": "Run",
     "Application.ll.executor": "Run",
