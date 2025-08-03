@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf0dbb23-94c6-4a30-a9a5-dac164a95e78" name="Changes" comment="initail commit" />
+    <list default="true" id="bf0dbb23-94c6-4a30-a9a5-dac164a95e78" name="Changes" comment="initail commit">
+      <change beforePath="$PROJECT_DIR$/src/Question8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Question8.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

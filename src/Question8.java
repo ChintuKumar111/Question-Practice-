@@ -11,7 +11,7 @@ class Solution {
         ArrayList<String> ar = new ArrayList<>();
 
         for(String ec : s){
-            ar.add(ec);
+           
 
             String reverse = new StringBuilder(ec).reverse().toString();
 
