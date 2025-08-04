@@ -1,5 +1,3 @@
-package Experiment;
-
 public class Question12 {
 
 
