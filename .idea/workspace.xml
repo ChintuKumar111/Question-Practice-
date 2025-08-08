@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf0dbb23-94c6-4a30-a9a5-dac164a95e78" name="Changes" comment="initail commit">
-      <change afterPath="$PROJECT_DIR$/src/Experiment/learning2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Experiment/SqrSOrtArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +48,7 @@
     "Application.Question7.executor": "Run",
     "Application.Question9.executor": "Run",
     "Application.Solution.executor": "Run",
+    "Application.SqrSOrtArray.executor": "Run",
     "Application.learning.executor": "Run",
     "Application.learning2.executor": "Run",
     "Application.ll.executor": "Run",
