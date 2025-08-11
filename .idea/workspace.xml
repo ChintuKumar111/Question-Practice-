@@ -33,6 +33,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Cg.executor": "Run",
     "Application.ExperimentForBestTime.executor": "Run",
     "Application.LCQ1.executor": "Run",
     "Application.LCQ1832.executor": "Run",
