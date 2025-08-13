@@ -18,7 +18,7 @@ class LCQ21 {
     public static void main(String [] args){
 
 
-        String [] ans = {"abcd ghf","to the "};
+        String [] ans = {"abcd  hghj ghf","to the "};
         LCQ21 s = new LCQ21();
 
          int value = s.mostWordsFound(ans);
