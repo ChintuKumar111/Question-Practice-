@@ -20,3 +20,9 @@ public class Question24 {
     }
 // solving ques
 
+
+
+
+
+
+
