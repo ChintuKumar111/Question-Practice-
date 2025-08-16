@@ -18,4 +18,5 @@ public class Question24 {
             return (LeftRight == 0 && UpDown == 0);
         }
     }
+// solving ques
 
