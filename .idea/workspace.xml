@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf0dbb23-94c6-4a30-a9a5-dac164a95e78" name="Changes" comment="initail commit" />
+    <list default="true" id="bf0dbb23-94c6-4a30-a9a5-dac164a95e78" name="Changes" comment="initail commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -52,6 +55,7 @@
     "Application.SortArray.executor": "Run",
     "Application.SortArrayMethod2.executor": "Run",
     "Application.SqrSOrtArray.executor": "Run",
+    "Application.ValueContains.executor": "Run",
     "Application.learning.executor": "Run",
     "Application.learning2.executor": "Run",
     "Application.ll.executor": "Run",
